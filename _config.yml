@@ -7,10 +7,10 @@ sass:
 ####################################
 #
 title: The Best Gift Ideas For Birthdays, Mothers Day, Fathers Day And More 
-email: Nathan@XeppIT.co.uk
+email: admin@jeleero.com
 description: jeleero dedicated to helping find the perfect gifts for men, women, boys, girls, valentines day, mothers day, fathers day and more. Come take a look.
 url: https://jeleero.com
-keywords: ["blog", "jekyll"]
+keywords: ["gifts", "gift ideas", "Birthday gift", "Mothers' Day gift", "Fathers' Day gift", "Christmas gift", "Valentine's gift"]
 
 #
 ###################################
@@ -35,40 +35,3 @@ kramdown:
 # Site Owner configuration
 ####################################
 #
-owner:
-  name: Nathan Wilson
-  avatar: logo.png
-  job: "Electrician / Project Manager / Software enthusiast"
-  bio: "A simple place to keep my thoughts and idea's."
-  email: Nathan@XeppIT.co.uk
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: XeppIT
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: nathan-wilson-a905b194
-  skype: #username
-  xing: #username
-  instagram: njkwales.orig
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-  reddit: Njkwales
-  telegram: #username
