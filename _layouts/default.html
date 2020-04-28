@@ -1,6 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 {% include head.html %}
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#aa0000",
+      "text": "#ffdddd"
+    },
+    "button": {
+      "background": "#ff0000"
+    }
+  },
+  "theme": "edgeless"
+});
+</script>
+
 <body>
   {% include header.html %}
   {% include navbar.html %}
