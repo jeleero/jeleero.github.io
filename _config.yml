@@ -67,7 +67,7 @@ sass:
 title: NjkWales Blog
 email: Nathan@XeppIT.co.uk
 description: A simple place to keep my thoughts and idea's.
-url: http://127.0.0.1:4000/
+#url: http://127.0.0.1:4000/
 keywords: ["blog", "jekyll"]
 
 #
