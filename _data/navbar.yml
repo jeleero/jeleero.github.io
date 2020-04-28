@@ -1,0 +1,12 @@
+- name: All Gifts
+  link: /
+- name: Gifts For Him
+  link: /gifts-for-him
+- name: Gifts For Her
+  link: /gifts-for-her
+- name: Gifts For Dad
+  link: /gifts-for-dad
+- name: Gifts For Mom
+  link: /gifts-for-mom
+- name: Gifts For Geeks
+  link: /gifts-for-geeks
