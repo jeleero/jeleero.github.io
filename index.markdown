@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="main-list">
+<section class="main-section">
   <div class="container">
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3">
       {% for post in site.posts %}
