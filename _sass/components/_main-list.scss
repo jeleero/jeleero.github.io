@@ -1,3 +1,31 @@
 .main-list {
     min-height: 70vh;
+
+    .card {
+        border-radius: 0;
+        .card-image {
+            min-height: 250px;
+        }
+
+        .card-body {
+            .card-text {
+                line-height: 1.2;
+            }
+        }
+
+        .card-footer {
+            .card-footer-price-and-date {
+                .card-price {
+                    margin: 0;
+                    padding: 0;
+                    font-weight: bold;
+                }
+
+                .card-date {
+                    margin: 0;
+                    padding: 0;
+                }
+            }
+        }
+    }
 }
