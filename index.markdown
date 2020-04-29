@@ -3,6 +3,8 @@ layout: default
 ---
 <section class="main-section">
   <div class="container">
+  <h1>All Gift Ideas</h1>
+  <p>All the gift ideas you could ever want for you husband, wife, mother, father or children they are all here so why not have a browse.</p>
     <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3">
       {% for post in site.posts %}
       <div class="col mb-4">
