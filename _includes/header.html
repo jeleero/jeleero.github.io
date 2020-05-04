@@ -1,18 +1,29 @@
 <header class="header">
     <div class="container">
-        <div class="row flex-justify-between">
+        <div class="row">
             <div class="col-12 col-sm-6 d-flex justify-content-center justify-content-sm-start mb-3 mb-sm-0">
                 <div class="">
                     <img class="logo" src="{{ site.url }}/assets/img/200x246.png" alt="jeleero logo">
                 </div>
             </div>
-            <div class="col-12 col-sm-6 flex-justify-end d-flex align-items-center">
-                <div class="input-group mb-3">
-                    <div class="input-group-prepend">
-                      <button class="btn btn-outline-secondary" type="button">Search</button>
+            <div class="col-12 col-sm-6 d-flex align-items-center">
+                <!-- Search input field -->
+                <div class="main-search form-group m-auto mr-sm-0 ml-sm-auto">
+                    <div class="input-group">
+                        <input id="search" name="main_input" class="form-control border-0"
+                            placeholder="press / to search" type="text">
+                        <div class="input-group-append">
+                            <span class="input-group-text border-0"><i class="fa fa-search"
+                                    aria-hidden="true"></i></span>
+                        </div>
                     </div>
-                    <input type="text" class="form-control">
-                  </div>
+                </div>
+
+                <!-- Search result container -->
+                <div class="search-results position-absolute">
+                    <ul id="results" class="search-results-ul card shadow border border-top-0">
+                    </ul>
+                </div>
             </div>
         </div>
     </div>

@@ -10,3 +10,63 @@
 @import "components/footer";
 @import "components/cards";
 @import "components/main-section";
+
+.main-search.focused {
+    
+}
+
+#search {
+    width: 270px
+}
+
+.search-results {
+    display: none;
+    width: 100%
+}
+
+.search-results ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index: 999999;
+}
+
+.search-results ul li {
+    padding: 5px 20px
+}
+
+.search-results ul li:not(:last-child) {
+    margin-bottom: 10px
+}
+
+.search-results ul li:hover {
+    background-color: #e9ecef
+}
+
+.search-results ul li:hover a {
+    color: #212529
+}
+
+.search-results ul li a {
+    display: block;
+    width: 100%
+}
+
+.search-results ul li a:hover {
+    color: #212529
+}
+
+.search-results ul li a:focus {
+    outline: none
+}
+
+.search-results ul li p {
+    font-size: .9em;
+    margin: 0
+}
+
+.search-results ul li span {
+    font-size: .8em;
+    font-weight: 300;
+    color: #adb5bd
+}
