@@ -1,7 +1,7 @@
 ---
 layout: post
-permalink: /gifts/KATE-MORGAN-Ladies-Soft-&-Cosy-Hooded-Dressing-Gown
-title: KATE MORGAN Ladies Soft & Cosy Hooded Dressing Gown
+permalink: /gifts/KATE-MORGAN-Ladies-Soft-and-Cosy-Hooded-Dressing-Gown
+title: KATE MORGAN Ladies Soft and Cosy Hooded Dressing Gown
 date: 2020-04-30
 categories: [gifts for her]
 excerpt: 
